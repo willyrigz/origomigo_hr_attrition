@@ -1,6 +1,5 @@
-
 ---
-title: "OrigoMigo HR Attrition Statistical Analysis"
+title: "HR Attrition Statistical Analysis"
 output:
   html_document:
     df_print: paged
